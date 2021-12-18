@@ -4,7 +4,7 @@ public class Rectangle {
     private Point startPoint;
     private double height;
     private double width;
-
+    
     public Rectangle() {
         startPoint = new Point(0, 0);
         height = 1;
